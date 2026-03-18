@@ -1,6 +1,6 @@
 //3D Array
-//ABDISAMAD ALI
-//BCS-03-0001/2026
+//Victor Wambugu 
+//BCS-05-0074/2025
 
 #include <stdio.h>
 #include <stdlib.h>
